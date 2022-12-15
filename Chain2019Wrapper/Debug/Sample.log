@@ -1,0 +1,4 @@
+﻿  sample.cpp
+c:\users\sartre\desktop\gameprog\chain2019wrapper\sample.cpp(454): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Sartre\Desktop\GameProg\Chain2019Wrapper\.\Debug\Sample.exe
